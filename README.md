@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-First project in C creating a "Rock Paper Scissors" game
+Creating a "Rock Paper Scissors" game in C
